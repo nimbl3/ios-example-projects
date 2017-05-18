@@ -9,9 +9,9 @@ Clone the repository
 
 and check out each submodule for building iOS Application
 
-for Pod example, required you to install pod ![Install Pod](https://guides.cocoapods.org/using/getting-started.html)
+for Pod example, required you to install pod [Install Pod](https://guides.cocoapods.org/using/getting-started.html)
 
-for Cathage example, required you to install athage ![Install Cathage](https://github.com/Carthage/Carthage)
+for Cathage example, required you to install athage [Install Cathage](https://github.com/Carthage/Carthage)
 
 for Gitsubmodule example, You need to checkout all submodules which Git Client default checkout for you.
 
