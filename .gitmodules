@@ -1,0 +1,6 @@
+[submodule "project_ios_cocoapods"]
+	path = project_ios_cocoapods
+	url = https://github.com/nimbl3/project_ios_cocoapods.git
+[submodule "project_ios_gitsubmodule"]
+	path = project_ios_gitsubmodule
+	url = https://github.com/nimbl3/project_ios_gitsubmodule.git
