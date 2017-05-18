@@ -15,7 +15,7 @@ for Cathage example, required you to install athage [Install Cathage](https://gi
 
 for Gitsubmodule example, You need to checkout all submodules which Git Client default checkout for you.
 
-for SwiftPM example, Just run swift build command and observe result.
+for SwiftPM example, Just run `swift build` command and observe result.
 
 ## License
 
