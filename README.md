@@ -1,11 +1,21 @@
-# Git Repository Template
-Project repository template to set up all public projects at [Nimbl3](https://nimbl3.com)
+# iOS Dependency Manager
+Project repository contained all projects which used difference dependency
 
 ## Usage
 
 Clone the repository
 
-`git clone git@github.com:nimbl3/git-template.git`
+`git clone https://github.com/nimbl3/ios-example-projects.git`
+
+and check out each submodule for building iOS Application
+
+for Pod example, required you to install pod ![Install Pod](https://guides.cocoapods.org/using/getting-started.html)
+
+for Cathage example, required you to install athage ![Install Cathage](https://github.com/Carthage/Carthage)
+
+for Gitsubmodule example, You need to checkout all submodules which Git Client default checkout for you.
+
+for SwiftPM example, Just run swift build command and observe result.
 
 ## License
 

@@ -7,3 +7,6 @@
 [submodule "project_ios_carthage"]
 	path = project_ios_carthage
 	url = https://github.com/nimbl3/project_ios_carthage.git
+[submodule "project_ios_swiftpm"]
+	path = project_ios_swiftpm
+	url = https://github.com/nimbl3/project_ios_swiftpm.git
